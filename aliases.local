@@ -1,0 +1,13 @@
+alias rtl="rm log/test.log"
+alias vtl="view log/test.log"
+alias etq="et -r dot --silent"
+alias fo="fork open"
+alias etf="et --filter"
+
+alias btree="brew deps --tree --installed"
+
+# GNU Smalltalk is installed and is started with 'gst'
+unalias gst
+
+alias lg="lazygit"
+
